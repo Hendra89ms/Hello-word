@@ -1,0 +1,2 @@
+# Hello-word
+Belajar Cpp
